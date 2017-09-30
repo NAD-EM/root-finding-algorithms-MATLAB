@@ -1,5 +1,6 @@
 %Finds functions root using Horner's method:
 %Usage example: "z = Horner('x^3+2*x-2',2.1,0.00000001)"
+%This script requieres to have the "evaluatePolynomial.m" script.
 
 %{
 	Horner: script to find a function's root using Horner's method.
